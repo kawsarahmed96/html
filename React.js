@@ -1,2 +1,2 @@
-const evenOrOdd =true?"yes":"no";
-console.log(evenOrOdd)
+const evenOrOdd = true ? "yes" : "no";
+console.log(evenOrOdd);
