@@ -1,0 +1,9 @@
+.carousel-inner {
+  max-height: 400px;
+}
+img {
+  max-height: 400px;
+}
+.carousel-indicators img {
+  max-width: 100px;
+}
